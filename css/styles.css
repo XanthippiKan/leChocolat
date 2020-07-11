@@ -35,6 +35,10 @@ address{
     background-color: #dbb08d !important;
     }
 
+    .socialMediaLinks a {
+color: rgb(12, 112, 211);
+    }
+
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
