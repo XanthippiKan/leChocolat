@@ -56,6 +56,7 @@ tr:hover {
 p{padding-bottom:10px;}
 
 .tab-content {
+    
 border-left: 1px solid #ddd;
 border-right: 1px solid #ddd;
 border-bottom: 1px solid #ddd;
@@ -64,6 +65,7 @@ padding:10px;
 
 .carousel {
 background-color: #914d15b0;
+
 }
 
 .carousel-item {
@@ -376,5 +378,8 @@ body {
         text-transform: uppercase;
         font-size: 18px;
     }
+
+   
+
 
    
