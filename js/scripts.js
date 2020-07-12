@@ -7,3 +7,9 @@ $(document).ready(function(){
         $("#mycarousel").carousel('cycle');
     });
 });
+
+
+/*Tooltip*/
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+  });
